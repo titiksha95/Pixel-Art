@@ -11,3 +11,9 @@ It provides a customizable grid, color palette, and intuitive drawing tools — 
 - 🖌️ **Draw & Clear** – Create pixel-perfect art with simple clicks.  
 - 💾 **Save Artwork** – Download your masterpiece as an image.  
 - ⚡ **Responsive Design** – Works smoothly on all screen sizes.  
+
+---
+
+## 🌐 Live Demo
+
+🚀 **Try it here:** [Pixelo - Pixel Art Maker](https://titiksha95.github.io/Pixel-Art/)
